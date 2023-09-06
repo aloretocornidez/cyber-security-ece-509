@@ -4,7 +4,7 @@
 – Review the approaches and techniques used to solve this problem. List the papers that you will be reviewing in your project and explain their main theme for each paper.
 – Describe the main issues to be addressed in the paper. List the sections to be written in your paper and give details about the sections as sub-bullets.
 – Describe the technologies to be used, tools, hardware, etc. to be utilized in the project.
-– Describe the experiments to be conducted in the project
+– Describe the experiments to be conducted in the project.
 – Summary and Concluding Remarks: One paragraph where you will summarize the proposal and conclude with what you will learn.
 
 # Guidelines
@@ -14,11 +14,11 @@ submit all project-related assignments).
 - Online students can team with in-class students and vice versa.
 
 # Project Report
-– IEEE Format 
-– Maximum 8 pages
+– IEEE Format.
+– Maximum 8 pages.
 – Abstract (max. 1/2 page). 
     - Problem addressed in the project; overview of techniques proposed to address the problem, and any summary comments or conclusions. 
-– Introduction. 
+– Introduction 
     - Expands on the contents of the abstract: Problem, techniques, and ends with the organization of the project report.
 – Literature review. Brief description of relevant work that aims to solve the problem addressed in the project.
 – Project architecture. Discuss the implementation approach, technologies used, and software tools used to implement the project. Provide visuals of the implementation.
